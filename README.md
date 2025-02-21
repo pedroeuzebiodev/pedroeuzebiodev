@@ -80,7 +80,20 @@
     </h2>
     <div id="certificados">
       <div class="certificado">
-        <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="80" align="left" />
+        <a href="https://www.netacad.com/">
+          <img src="https://i.imgur.com/HlX6xOF.jpg" alt="Logo da Cisco Networking Academy" width="80" align="left" />
+        </a>
+        <p>
+          <strong>Networking Basics</strong> <br />
+          Cisco Networking Academy <br />
+          Verificação emitida em out de 2024 <br />
+          <a href="https://www.credly.com/badges/79dc0a0f-6247-4b94-8365-ca68e8034c0b">Exibir credencial</a>
+        </p>
+      </div>
+      <div class="certificado">
+        <a href="https://e.huawei.com/en/talent/ict-academy/">
+          <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="80" align="left" />
+        </a>
         <p>
           <strong>Development and Basic Concepts of Cloud Computing</strong> <br />
           Huawei ICT Academy <br />
@@ -89,7 +102,20 @@
         </p>
       </div>
       <div class="certificado">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="80" align="left" />
+        <a href="https://www.netacad.com/">
+          <img src="https://i.imgur.com/HlX6xOF.jpg" alt="Logo da Cisco Networking Academy" width="80" align="left" />
+        </a>
+        <p>
+          <strong>Endpoint Security</strong> <br />
+          Cisco Networking Academy <br />
+          Verificação emitida em set de 2024 <br />
+          <a href="https://www.credly.com/badges/0cf3adf8-b3f0-4a67-9f7f-759c23a38929">Exibir credencial</a>
+        </p>
+      </div>
+      <div class="certificado">
+        <a href="https://www.rocketseat.com.br">
+          <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="80" align="left" />
+        </a>
         <p>
           <strong>Discover</strong> <br />
           Rocketseat <br />
@@ -98,7 +124,9 @@
         </p>
       </div>
       <div class="certificado">
-        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="80" align="left" />
+        <a href="https://aws.amazon.com/pt/">
+          <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="80" align="left" />
+        </a>
         <p>
           <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br />
           Amazon Web Services (AWS) <br />
@@ -115,7 +143,9 @@
     </h2>
     <div id="cursos">
       <div class="curso">
-        <img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo da Dell Technologies" width="80" align="left" />
+        <a href="https://www.dell.com/pt-br">
+          <img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo da Dell Technologies" width="80" align="left" />
+        </a>
         <p>
           <strong>Suporte Técnico em Tecnologia da Informação</strong> <br />
           Dell Technologies <br />
