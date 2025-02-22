@@ -73,6 +73,50 @@
       </div>
     </div>
   </section>
+  <section id="secao-de-tecnologias">
+    <h2>
+      <img src="https://i.imgur.com/PZLaUKQ.png" width="32px" align="center" />
+      Tecnologias
+    </h2>
+    <h3>
+      <img src="https://i.imgur.com/f5Mth4C.png" width="24px" align="center" />
+      Front-end
+    </h3>
+    <div id="front-end-tecnologias">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=platic&logo=html5&logoColor=white" alt="HTML" class="tecnologia" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS" class="tecnologia" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" class="tecnologia" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" class="tecnologia" />
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" class="tecnologia" />
+      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" alt="Vite" class="tecnologia" />
+      <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white" alt="React Query" class="tecnologia" />
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" alt="React Router" class="tecnologia" />
+      <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white" alt="React Hook Form" alt="tecnologia" />
+      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" alt="Redux" class="Redux" class="tecnologia" />
+      <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next.js" class="Next.js" class="tecnologia" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" class="tecnologia" />
+      <img src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white" alt="Styled Components" class="tecnologia" />
+      <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" alt="SASS" class="tecnologia" />
+      <img src="https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B" alt="Vitest" class="tecnologia" />
+    </div>
+    <h3>
+      <img src="https://i.imgur.com/JGp84ub.png" width="24px" align="center" />
+      Back-end e Banco de Dados
+    </h3>
+    <div id="back-end-e-banco-de-dados-tecnologias">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node.js" class="tecnologia" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js" class="tecnologia" />
+      <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white" alt="Fastify" class="tecnologia" />
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white" alt="NestJS" class="tecnologia" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" class="tecnologia" />
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" class="tecnologia" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" class="tecnologia" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" class="tecnologia" />
+      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" alt="GrahQL" class="tecnologia" />
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white" alt="Prisma" class="tecnologia" />
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white" alt="Sequelize" class="tecnologia" />
+    </div>
+  </section>
   <section id="secao-de-certificados">
     <h2>
       <img src="https://i.imgur.com/k6jWz3F.png" width="32px" align="center" />
