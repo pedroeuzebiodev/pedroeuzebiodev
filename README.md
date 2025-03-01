@@ -221,6 +221,23 @@
       </div>
     </div>
   </section>
+  <section id="secao-de-contato">
+    <h2>
+      <img src="https://i.imgur.com/TvNTDkw.png" width="32px" alugn="center" />
+      Contato
+    </h2>
+    <div id="contatos">
+      <a href="mailto:pedroeuzebio.contato@gmail.com" class="contato">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/pedroeuzebio" class="contato">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://www.youtube.com/@pedroeuzebiodev" class="contato">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white" />
+      </a>
+    </div>
+  </section>
 </main>
 
 <!--
