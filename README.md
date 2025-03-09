@@ -3,6 +3,20 @@
 </header>
 
 <main>
+  <section id="secao-de-sobre">
+    <h2>
+      <img src="https://i.imgur.com/wlqYp7I.png" width="32px" align="center" />
+      Sobre
+    </h2>
+    <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" width="300" align="right" />
+    <p>
+      Eu sou um Desenvolvedor Full Stack, com foco em React e Node.js. Construo, desenvolvo e programo aplicações, sistemas e websites para à internet desde 2021.
+
+Possuo experiência profissional como Desenvolvedor Full Stack no IFCE exercendo atividades como programação front-end, desenvolvimento back-end, modelagem de banco de dados, configurando servidores, integrando sistemas, gerenciando a lógica dos servidores, criando interfaces de usuário interativas e responsivas e coletando análise de requisitos.
+
+Sou formado em Técnico em Informática pela Educação Profissional de Nível, atualmente cursando Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Estácio. Tenho certificação AWS Academy Graduate - AWS Academy Cloud Foundations pela Amazon Web Services (AWS) em fundamentos da nuvem.
+    </p>
+  </section>
   <section id="secao-de-experiencia">
     <h2>
       <img src="https://i.imgur.com/BmsCark.png" width="32px" align="center" />
