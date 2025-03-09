@@ -2,9 +2,9 @@
   <img src="https://i.imgur.com/gFIozd6.png" alt="Banner do Pedro Euzebio" />
 </header>
 
-<div id="github-stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroeuzebiodev&show_icons=true&theme=holi" width="51%" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebiodev&layout=compact&theme=holi&hide_progress=true" width="48%" height="200" />
+<div id="github-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroeuzebiodev&show_icons=true&theme=holi" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebiodev&layout=compact&theme=holi&hide_progress=true" width="49%" />
 </div>
 
 <main>
