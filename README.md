@@ -8,7 +8,7 @@
       <img src="https://i.imgur.com/wlqYp7I.png" width="32px" align="center" />
       Sobre
     </h2>
-    <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" width="300" align="right" />
+    <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" width="384" align="right" />
     <p>
       Eu sou um Desenvolvedor Full Stack, com foco em React e Node.js. Construo, desenvolvo e programo aplicações, sistemas e websites para à internet desde 2021.
 
