@@ -3,8 +3,8 @@
 </header>
 
 <div id="github-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroeuzebiodev&show_icons=true&theme=holi" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebiodev&size_weight=0.5&count_weight=0.5&layout=compact&theme=holi&hide_progress=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroeuzebiodev&show_icons=true&theme=holi" width="468" height="196" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebiodev&size_weight=0.5&count_weight=0.5&layout=compact&theme=holi&hide_progress=true" width="468" height="196" />
 </div>
 
 <main>
