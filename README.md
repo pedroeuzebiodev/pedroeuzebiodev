@@ -4,7 +4,7 @@
 
 <div id="github-stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroeuzebiodev&show_icons=true&theme=holi" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebiodev&layout=compact&theme=holi&hide_progress=true" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebiodev&layout=compact&theme=holi&hide_progress=true&langs_count=6" width="44%" />
 </div>
 
 <main>
