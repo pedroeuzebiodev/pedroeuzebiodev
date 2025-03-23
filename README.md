@@ -19,7 +19,7 @@
 
 Possuo experiência profissional como Desenvolvedor Full Stack no IFCE exercendo atividades como programação front-end, desenvolvimento back-end, modelagem de banco de dados, configurando servidores, integrando sistemas, gerenciando a lógica dos servidores, criando interfaces de usuário interativas e responsivas e coletando análise de requisitos.
 
-Sou formado em Técnico em Informática pela Educação Profissional de Nível, atualmente cursando Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Estácio. Tenho certificação AWS Academy Graduate - AWS Academy Cloud Foundations pela Amazon Web Services (AWS) em fundamentos da nuvem.
+Sou formado em Técnico em Informática pela Educação Profissional de Nível Médio, atualmente cursando Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Estácio. Tenho certificação AWS Academy Graduate - AWS Academy Cloud Foundations pela Amazon Web Services (AWS) em fundamentos da nuvem.
     </p>
   </section>
   <section id="secao-de-experiencia">
