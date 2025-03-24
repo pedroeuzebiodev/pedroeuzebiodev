@@ -22,12 +22,24 @@ Possuo experiência profissional como Desenvolvedor Full Stack no IFCE exercendo
 Sou formado em Técnico em Informática pela Educação Profissional de Nível Médio, atualmente cursando Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Estácio. Tenho certificação AWS Academy Graduate - AWS Academy Cloud Foundations pela Amazon Web Services (AWS) em fundamentos da nuvem.
     </p>
   </section>
+  <hr />
   <section id="secao-de-experiencia">
     <h2>
       <img src="https://i.imgur.com/BmsCark.png" width="32px" align="center" />
       Experiência
     </h2>
     <div id="experiencias">
+      <div class="experiencia">
+        <a href="https://agenciamagnix.com">
+          <img src="https://i.imgur.com/5sQlBoV.jpg" alt="Logo da Magnix" width="80" align="left" />
+        </a>
+        <p>
+          <strong>Desenvolvedor Web</strong> <br />
+          Magnix · Estágio <br />
+          jan de 2025 - o momento · 3 meses <br />
+          Distrito Federal, Brasília, Brasil · Remota
+        </p>
+      </div>
       <div class="experiencia">
         <a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6">
           <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Social" width="80" align="left" />
@@ -52,6 +64,7 @@ Sou formado em Técnico em Informática pela Educação Profissional de Nível M
       </div>
     </div>
   </section>
+  <hr />
   <section id="secao-de-formacao-academica">
     <h2>
       <img src="https://i.imgur.com/amaxucg.png" width="32px" align="center" />
@@ -92,6 +105,7 @@ Sou formado em Técnico em Informática pela Educação Profissional de Nível M
       </div>
     </div>
   </section>
+  <hr />
   <section id="secao-de-tecnologias">
     <h2>
       <img src="https://i.imgur.com/PZLaUKQ.png" width="32px" align="center" />
@@ -136,6 +150,7 @@ Sou formado em Técnico em Informática pela Educação Profissional de Nível M
       <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white" alt="Sequelize" class="tecnologia" />
     </div>
   </section>
+  <hr />
   <section id="secao-de-certificados">
     <h2>
       <img src="https://i.imgur.com/k6jWz3F.png" width="32px" align="center" />
@@ -199,6 +214,7 @@ Sou formado em Técnico em Informática pela Educação Profissional de Nível M
       </div>
     </div>
   </section>
+  <hr />
   <section id="secao-de-cursos">
     <h2>
       <img src="https://i.imgur.com/AN80nKv.png" width="32px" align="center" />
@@ -218,6 +234,7 @@ Sou formado em Técnico em Informática pela Educação Profissional de Nível M
       </div>
     </div>
   </section>
+  <hr />
   <section id="secao-de-idiomas">
     <h2>
       <img src="https://i.imgur.com/h09KBzA.png" width="32px" align="center" />
@@ -240,6 +257,7 @@ Sou formado em Técnico em Informática pela Educação Profissional de Nível M
       </div>
     </div>
   </section>
+  <hr />
   <section id="secao-de-contato">
     <h2>
       <img src="https://i.imgur.com/TvNTDkw.png" width="32px" alugn="center" />
