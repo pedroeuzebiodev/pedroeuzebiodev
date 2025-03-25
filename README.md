@@ -35,7 +35,7 @@ Sou formado em Técnico em Informática pela Educação Profissional de Nível M
         </a>
         <p>
           <strong>Desenvolvedor Web</strong> <br />
-          Magnix · Estágio <br />
+          Magnix · Medio Período <br />
           jan de 2025 - o momento · 3 meses <br />
           Distrito Federal, Brasília, Brasil · Remota
         </p>
