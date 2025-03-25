@@ -15,11 +15,23 @@
     </h2>
     <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" width="384" align="right" />
     <p>
-      Eu sou um Desenvolvedor Full Stack, com foco em React e Node.js. Construo, desenvolvo e programo aplicações, sistemas e websites para à internet desde 2021.
+      💻 Desenvolvedor Full Stack apaixonado por criar soluções escaláveis e eficientes 
 
-Possuo experiência profissional como Desenvolvedor Full Stack no IFCE exercendo atividades como programação front-end, desenvolvimento back-end, modelagem de banco de dados, configurando servidores, integrando sistemas, gerenciando a lógica dos servidores, criando interfaces de usuário interativas e responsivas e coletando análise de requisitos.
+Com experiência em React, Node.js, TypeScript, Next.js, Tailwind CSS, Fastify, Prisma, Docker e NestJS, sou movido por desafios e tenho uma abordagem prática para resolver problemas complexos em empresas, equipes e startups.
 
-Sou formado em Técnico em Informática pela Educação Profissional de Nível Médio, atualmente cursando Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Estácio. Tenho certificação AWS Academy Graduate - AWS Academy Cloud Foundations pela Amazon Web Services (AWS) em fundamentos da nuvem.
+🚀 O que me diferencia?
+<ul>
+  <li>Fome de aprendizado constante e rápida implementação de soluções.</li>
+  <li>Experiência em projetos reais que impactam negócios e processos.</li>
+  <li>Desenvolvimento de aplicações performáticas, responsivas e bem estruturadas.</li>
+</ul>
+
+📌 Projetos e Experiência:  
+Trabalhei no desenvolvimento de plataformas para empresas como Magnix, Secretaria de Desenvolvimento Econômico e Social e IFCE, criando sistemas que otimizam fluxos de trabalho e melhoram a experiência dos usuários.
+
+🌍 Busco oportunidades para contribuir em projetos inovadores, seja em empresas, startups ou como freelancer, entregando código limpo, escalável e eficiente.
+
+📫 Vamos conversar? Confira meu GitHub: <a href="https://github.com/pedroeuzebiodev">https://github.com/pedroeuzebiodev</a>
     </p>
   </section>
   <hr />
