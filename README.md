@@ -15,23 +15,13 @@
     </h2>
     <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" width="384" align="right" />
     <p>
-      💻 Desenvolvedor Full Stack apaixonado por criar soluções escaláveis e eficientes 
+      Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência sólida em React.js, Node.js, TypeScript, JavaScript, SQL e NoSQL. Atuo no desenvolvimento de soluções escaláveis, otimizadas e focadas em performance, aplicando boas práticas de arquitetura de software, versionamento com Git/GitHub e segurança em aplicações web. 
 
-Com experiência em React, Node.js, TypeScript, Next.js, Tailwind CSS, Fastify, Prisma, Docker e NestJS, sou movido por desafios e tenho uma abordagem prática para resolver problemas complexos em empresas, equipes e startups.
+Minha trajetória inclui projetos impactantes, como o website da Magnix, Agência de Marketing, e o Método G, que potencializam resultados empresariais. Também desenvolvi soluções personalizadas, como um agregador de links responsivo, e atuei como Desenvolvedor Full Stack no IFCE, contribuindo para aplicações acadêmicas. 
 
-🚀 O que me diferencia?
-<ul>
-  <li>Fome de aprendizado constante e rápida implementação de soluções.</li>
-  <li>Experiência em projetos reais que impactam negócios e processos.</li>
-  <li>Desenvolvimento de aplicações performáticas, responsivas e bem estruturadas.</li>
-</ul>
+Além do desenvolvimento, sou Aluno Monitor de Desenvolvimento Web I no IFCE, auxiliando outros alunos a aprimorarem suas habilidades técnicas. Possuo certificações como AWS Academy Cloud Foundations e Suporte Técnico em TI pela Dell Technologies, reforçando meu conhecimento em infraestrutura e nuvem. 
 
-📌 Projetos e Experiência:  
-Trabalhei no desenvolvimento de plataformas para empresas como Magnix, Secretaria de Desenvolvimento Econômico e Social e IFCE, criando sistemas que otimizam fluxos de trabalho e melhoram a experiência dos usuários.
-
-🌍 Busco oportunidades para contribuir em projetos inovadores, seja em empresas, startups ou como freelancer, entregando código limpo, escalável e eficiente.
-
-📫 Vamos conversar? Confira meu GitHub: <a href="https://github.com/pedroeuzebiodev">https://github.com/pedroeuzebiodev</a>
+Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando novas tecnologias e aprimorando minha capacidade de criar produtos digitais de alto impacto. Busco desafios que me permitam inovar, crescer e agregar valor ao mercado, unindo eficiência técnica e visão estratégica para soluções inteligentes.
     </p>
   </section>
   <hr />
