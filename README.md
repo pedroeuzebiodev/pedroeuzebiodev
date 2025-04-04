@@ -46,11 +46,6 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando no
           nov de 2023 - dez de 2023 · 2 meses <br />
           Baturité, Ceará, Brasil · Presencial
         </p>
-        <ul>
-          <li>Diagnóstico e solução de problemas em hardware, software e redes.</li>
-          <li>Manutenção e configuração de sistemas operacionais, redes e servidores.</li>
-          <li>Prestação de suporte técnico a colaboradores para garantir eficiência no uso de sistemas.</li>
-        </ul>
       </div>
       <div class="experiencia">
         <a href="https://ifce.edu.br">
