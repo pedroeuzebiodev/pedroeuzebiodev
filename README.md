@@ -9,10 +9,7 @@
 
 <main>
   <section id="secao-de-sobre">
-    <h2>
-      <img src="https://i.imgur.com/wlqYp7I.png" width="32px" align="center" />
-      Sobre
-    </h2>
+    <h2>❓ Sobre</h2>
     <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" width="384" align="right" />
     <p>
       Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência sólida em React.js, Node.js, TypeScript, JavaScript, SQL e NoSQL. Atuo no desenvolvimento de soluções escaláveis, otimizadas e focadas em performance, aplicando boas práticas de arquitetura de software, versionamento com Git/GitHub e segurança em aplicações web. 
@@ -26,10 +23,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando no
   </section>
   <hr />
   <section id="secao-de-experiencia">
-    <h2>
-      <img src="https://i.imgur.com/BmsCark.png" width="32px" align="center" />
-      Experiência
-    </h2>
+    <h2>🚀 Experiência</h2>
     <div id="experiencias">
       <div class="experiencia">
         <a href="https://agenciamagnix.com">
@@ -37,9 +31,9 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando no
         </a>
         <p>
           <strong>Desenvolvedor Web</strong> <br />
-          Magnix · Medio Período <br />
-          jan de 2025 - o momento · 3 meses <br />
-          Distrito Federal, Brasília, Brasil · Remota
+          Magnix · Autônomo <br />
+          jan de 2025 - o momento · 4 meses <br />
+          Brasília, Distrito Federal, Brasil · Remota
         </p>
       </div>
       <div class="experiencia">
@@ -52,6 +46,11 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando no
           nov de 2023 - dez de 2023 · 2 meses <br />
           Baturité, Ceará, Brasil · Presencial
         </p>
+        <ul>
+          <li>Diagnóstico e solução de problemas em hardware, software e redes.</li>
+          <li>Manutenção e configuração de sistemas operacionais, redes e servidores.</li>
+          <li>Prestação de suporte técnico a colaboradores para garantir eficiência no uso de sistemas.</li>
+        </ul>
       </div>
       <div class="experiencia">
         <a href="https://ifce.edu.br">
@@ -68,10 +67,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando no
   </section>
   <hr />
   <section id="secao-de-formacao-academica">
-    <h2>
-      <img src="https://i.imgur.com/amaxucg.png" width="32px" align="center" />
-      Formação acadêmica
-    </h2>
+    <h2>🎓 Formação Acadêmica</h2>
     <div id="formacoes-academica">
       <div class="formacao-academica">
         <a href="https://estacio.br">
@@ -109,10 +105,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando no
   </section>
   <hr />
   <section id="secao-de-tecnologias">
-    <h2>
-      <img src="https://i.imgur.com/PZLaUKQ.png" width="32px" align="center" />
-      Tecnologias
-    </h2>
+    <h2>⚒️ Tecnologias</h2>
     <h3>
       <img src="https://i.imgur.com/f5Mth4C.png" width="24px" align="center" />
       Front-end
@@ -154,44 +147,8 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando no
   </section>
   <hr />
   <section id="secao-de-certificados">
-    <h2>
-      <img src="https://i.imgur.com/k6jWz3F.png" width="32px" align="center" />
-      Certificados
-    </h2>
+    <h2>📄 Certificados</h2>
     <div id="certificados">
-      <div class="certificado">
-        <a href="https://www.netacad.com/">
-          <img src="https://i.imgur.com/HlX6xOF.jpg" alt="Logo da Cisco Networking Academy" width="80" align="left" />
-        </a>
-        <p>
-          <strong>Networking Basics</strong> <br />
-          Cisco Networking Academy <br />
-          Verificação emitida em out de 2024 <br />
-          <a href="https://www.credly.com/badges/79dc0a0f-6247-4b94-8365-ca68e8034c0b">Exibir credencial</a>
-        </p>
-      </div>
-      <div class="certificado">
-        <a href="https://e.huawei.com/en/talent/ict-academy/">
-          <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="80" align="left" />
-        </a>
-        <p>
-          <strong>Development and Basic Concepts of Cloud Computing</strong> <br />
-          Huawei ICT Academy <br />
-          Verificação emitida em set de 2024 <br />
-          <a href="https://www.credly.com/badges/b0fe24b7-7db3-45cb-ba37-3541ff7ece1e">Exibir credencial</a>
-        </p>
-      </div>
-      <div class="certificado">
-        <a href="https://www.netacad.com/">
-          <img src="https://i.imgur.com/HlX6xOF.jpg" alt="Logo da Cisco Networking Academy" width="80" align="left" />
-        </a>
-        <p>
-          <strong>Endpoint Security</strong> <br />
-          Cisco Networking Academy <br />
-          Verificação emitida em set de 2024 <br />
-          <a href="https://www.credly.com/badges/0cf3adf8-b3f0-4a67-9f7f-759c23a38929">Exibir credencial</a>
-        </p>
-      </div>
       <div class="certificado">
         <a href="https://www.rocketseat.com.br">
           <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="80" align="left" />
@@ -218,10 +175,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando no
   </section>
   <hr />
   <section id="secao-de-cursos">
-    <h2>
-      <img src="https://i.imgur.com/AN80nKv.png" width="32px" align="center" />
-      Cursos
-    </h2>
+    <h2>✅ Cursos</h2>
     <div id="cursos">
       <div class="curso">
         <a href="https://www.dell.com/pt-br">
@@ -238,33 +192,17 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando no
   </section>
   <hr />
   <section id="secao-de-idiomas">
-    <h2>
-      <img src="https://i.imgur.com/h09KBzA.png" width="32px" align="center" />
-      Idiomas
-    </h2>
+    <h2>👅 Idiomas</h2>
     <div id="idiomas">
-      <div class="idioma">
-        <h3>
-          <img src="https://i.imgur.com/w94HAUQ.png" width="24px" align="center" />
-          Inglês
-        </h3>
-        <p>Nível básico a intermediário</p>
-      </div>
-      <div class="idioma">
-        <h3>
-          <img src="https://i.imgur.com/M4k7tVh.png" width="24px" align="center" />
-          Português
-        </h3>
-        <p>Fluente ou nativo</p>
-      </div>
+      <ul>
+        <li class="idioma">Inglês - Básico a Intermediário</li>
+        <li class="idioma">Português - Fluente ou Nativo</li>
+      </ul>
     </div>
   </section>
   <hr />
   <section id="secao-de-contato">
-    <h2>
-      <img src="https://i.imgur.com/TvNTDkw.png" width="32px" alugn="center" />
-      Contato
-    </h2>
+    <h2>📫 Contato</h2>
     <div id="contatos">
       <a href="mailto:pedroeuzebio.contato@gmail.com" class="contato">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
