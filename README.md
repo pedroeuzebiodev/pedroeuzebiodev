@@ -12,13 +12,13 @@
     <h2>❓ Sobre</h2>
     <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" width="384" align="right" />
     <p>
-      Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência sólida em React.js, Node.js, TypeScript, JavaScript, SQL e NoSQL. Atuo no desenvolvimento de soluções escaláveis, otimizadas e focadas em performance, aplicando boas práticas de arquitetura de software, versionamento com Git/GitHub e segurança em aplicações web. 
+      Desenvolvedor Full Stack com experiência sólida no desenvolvimento de aplicações modernas e escaláveis, utilizando React.js, Node.js, TypeScript, JavaScript, SQL e NoSQL. Possuo forte domínio de arquitetura de software, otimização de performance e segurança em aplicações web, aplicando as melhores práticas de desenvolvimento, versionamento com Git/GitHub e integração de APIs.
 
-Minha trajetória inclui projetos impactantes, como o website da Magnix, Agência de Marketing, e o Método G, que potencializam resultados empresariais. Também desenvolvi soluções personalizadas, como um agregador de links responsivo, e atuei como Desenvolvedor Full Stack no IFCE, contribuindo para aplicações acadêmicas. 
+Minha trajetória profissional inclui o desenvolvimento de projetos estratégicos, como o website da Magnix, Agência de Marketing, e o Método G, que auxiliam empresas a expandirem sua presença digital e otimizarem resultados. Além disso, criei soluções, como um agregador de links responsivo com troca de tema, e atuei no IFCE como Desenvolvedor Full Stack, contribuindo para aplicações acadêmicas.
 
-Além do desenvolvimento, sou Aluno Monitor de Desenvolvimento Web I no IFCE, auxiliando outros alunos a aprimorarem suas habilidades técnicas. Possuo certificações como AWS Academy Cloud Foundations e Suporte Técnico em TI pela Dell Technologies, reforçando meu conhecimento em infraestrutura e nuvem. 
+Atualmente, sou Aluno Monitor de Desenvolvimento Web I no IFCE, onde compartilho conhecimentos e auxilio outros alunos a aprimorarem suas habilidades técnicas. Também possuo certificações como AWS Academy Cloud Foundations e Suporte Técnico em TI pela Dell Technologies, ampliando minha expertise em infraestrutura e computação em nuvem.
 
-Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, explorando novas tecnologias e aprimorando minha capacidade de criar produtos digitais de alto impacto. Busco desafios que me permitam inovar, crescer e agregar valor ao mercado, unindo eficiência técnica e visão estratégica para soluções inteligentes.
+Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando minhas habilidades técnicas e explorando novas tecnologias para criar soluções e de alto impacto. Busco desafios que me permitam crescer profissionalmente, agregando valor ao mercado e transformando ideias em produtos digitais eficientes e estratégicos.
     </p>
   </section>
   <hr />
