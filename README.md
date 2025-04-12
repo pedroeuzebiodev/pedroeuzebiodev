@@ -184,7 +184,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando m
     <h2>👅 Idiomas</h2>
     <div id="idiomas">
       <ul>
-        <li class="idioma">Inglês - Básico a Intermediário</li>
+        <li class="idioma">Inglês - Nível Básico a Intermediário</li>
         <li class="idioma">Português - Fluente ou Nativo</li>
       </ul>
     </div>
