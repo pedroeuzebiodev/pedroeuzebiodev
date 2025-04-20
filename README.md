@@ -4,6 +4,7 @@
 
 <div id="github-stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroeuzebiodev&show_icons=true&theme=holi" width="49%" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeuzebiodev&layout=compact&theme=holi&hide_progress=true&langs_count=6" width="44%" />
 </div>
 
@@ -21,7 +22,7 @@ Atualmente, sou Aluno Monitor de Desenvolvimento Web I no IFCE, onde compartilho
 Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando minhas habilidades técnicas e explorando novas tecnologias para criar soluções e de alto impacto. Busco desafios que me permitam crescer profissionalmente, agregando valor ao mercado e transformando ideias em produtos digitais eficientes e estratégicos.
     </p>
   </section>
-  <hr />
+  
   <section id="secao-de-experiencia">
     <h2>🚀 Experiência</h2>
     <div id="experiencias">
@@ -31,7 +32,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando m
         </a>
         <p>
           <strong>Desenvolvedor Web</strong> <br />
-          Magnix · Autônomo <br />
+          Magnix · Freelance <br />
           jan de 2025 - o momento · 4 meses <br />
           Brasília, Distrito Federal, Brasil · Remota
         </p>
@@ -60,7 +61,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando m
       </div>
     </div>
   </section>
-  <hr />
+
   <section id="secao-de-formacao-academica">
     <h2>🎓 Formação Acadêmica</h2>
     <div id="formacoes-academica">
@@ -98,7 +99,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando m
       </div>
     </div>
   </section>
-  <hr />
+
   <section id="secao-de-tecnologias">
     <h2>⚒️ Tecnologias</h2>
     <h3>💻 Front-end</h3>
@@ -134,7 +135,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando m
       <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white" alt="Sequelize" class="tecnologia" />
     </div>
   </section>
-  <hr />
+
   <section id="secao-de-certificados">
     <h2>📄 Certificados</h2>
     <div id="certificados">
@@ -162,7 +163,7 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando m
       </div>
     </div>
   </section>
-  <hr />
+
   <section id="secao-de-cursos">
     <h2>✅ Cursos</h2>
     <div id="cursos">
@@ -179,17 +180,17 @@ Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando m
       </div>
     </div>
   </section>
-  <hr />
+
   <section id="secao-de-idiomas">
     <h2>👅 Idiomas</h2>
     <div id="idiomas">
       <ul>
-        <li class="idioma">Inglês - Nível Básico a Intermediário</li>
-        <li class="idioma">Português - Fluente ou Nativo</li>
+        <li class="idioma">Inglês - Nível Básico a Intermediário (B1)</li>
+        <li class="idioma">Português - Fluente ou Nativo (C2)</li>
       </ul>
     </div>
   </section>
-  <hr />
+
   <section id="secao-de-contato">
     <h2>📫 Contato</h2>
     <div id="contatos">
