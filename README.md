@@ -9,20 +9,6 @@
 </div>
 
 <main>
-  <section id="secao-de-sobre">
-    <h2>❓ Sobre</h2>
-    <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" width="384" align="right" />
-    <p>
-      Desenvolvedor Full Stack com experiência sólida no desenvolvimento de aplicações modernas e escaláveis, utilizando React.js, Node.js, TypeScript, JavaScript, SQL e NoSQL. Possuo forte domínio de arquitetura de software, otimização de performance e segurança em aplicações web, aplicando as melhores práticas de desenvolvimento, versionamento com Git/GitHub e integração de APIs.
-
-Minha trajetória profissional inclui o desenvolvimento de projetos estratégicos, como o website da Magnix, Agência de Marketing, e o Método G, que auxiliam empresas a expandirem sua presença digital e otimizarem resultados. Além disso, criei soluções, como um agregador de links responsivo com troca de tema, e atuei no IFCE como Desenvolvedor Full Stack, contribuindo para aplicações acadêmicas.
-
-Atualmente, sou Aluno Monitor de Desenvolvimento Web I no IFCE, onde compartilho conhecimentos e auxilio outros alunos a aprimorarem suas habilidades técnicas. Também possuo certificações como AWS Academy Cloud Foundations e Suporte Técnico em TI pela Dell Technologies, ampliando minha expertise em infraestrutura e computação em nuvem.
-
-Meu objetivo é continuar evoluindo como Desenvolvedor Full Stack, aprimorando minhas habilidades técnicas e explorando novas tecnologias para criar soluções e de alto impacto. Busco desafios que me permitam crescer profissionalmente, agregando valor ao mercado e transformando ideias em produtos digitais eficientes e estratégicos.
-    </p>
-  </section>
-  
   <section id="secao-de-experiencia">
     <h2>🚀 Experiência</h2>
     <div id="experiencias">
