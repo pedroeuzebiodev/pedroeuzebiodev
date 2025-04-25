@@ -186,6 +186,9 @@
       <a href="https://www.linkedin.com/in/pedroeuzebio" class="contato">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
       </a>
+      <a href="https://www.youtube.com/@pedroeuzebiodev" class="contato">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white" />
+      </a>
     </div>
   </section>
 </main>
