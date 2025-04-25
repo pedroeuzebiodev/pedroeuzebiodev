@@ -87,8 +87,8 @@
   </section>
 
   <section id="secao-de-tecnologias">
-    <h2>⚒️ Tecnologias</h2>
-    <h3>💻 Front-end</h3>
+    <h2>⚒️ Habilidades Técnicas</h2>
+    <h3>💻 Desenvolvimento Front-end</h3>
     <div id="front-end-tecnologias">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=platic&logo=html5&logoColor=white" alt="HTML" class="tecnologia" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS" class="tecnologia" />
@@ -106,7 +106,7 @@
       <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" alt="SASS" class="tecnologia" />
       <img src="https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B" alt="Vitest" class="tecnologia" />
     </div>
-    <h3>⚙️ Back-end e Banco de Dados</h3>
+    <h3>⚙️ Desenvolvimento Back-end e Banco de Dados</h3>
     <div id="back-end-e-banco-de-dados-tecnologias">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node.js" class="tecnologia" />
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js" class="tecnologia" />
