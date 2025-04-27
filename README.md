@@ -8,6 +8,26 @@
 </div>
 
 <main>
+  <section>
+    <h2>❓ Sobre</h2>
+    <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" align="right" />
+    <p>
+      Sou um desenvolvedor, com foco em React e Node.js para desenvolvimento full stack. Minhas habilidades técnicas em desenvolvimento front-end são com as tecnologias HTML, CSS, JavaScript, React e Tailwind CSS, e em desenvolvimento back-end são com Node.js, Express.js, Fastify, NestJS e Docker.
+
+Atualmente atuo como desenvolvedor web na Magnix, planejando, construindo, testando e mantendo os sites e aplicações web da agência, garantindo que funcionem corretamente, sejam seguros e adaptados a diferentes dispositivos.
+
+Possuo experiência como técnico de tecnologia da informação na Secretaria de Desenvolvimento Econômico e Social, garantindo o bom funcionamento dos sistemas de hardware e software, e atuei como desenvolvedor full stack no IFCE, desenvolvendo as aplicações da instituição, desde a interface do usuário até o servidor e banco de dados.
+
+Tenho formação profissional de nível médio no curso de Técnico em Informática pela EEEP, na qual adquiri conhecimentos desde a montagem e manutenção de computadores até o desenvolvimento de softwares e websites.
+
+No momento estou cursando o curso de Tecnólogo em Sistemas para Internet na Estácio com ênfase em desenvolvimento, implementação e gestão de sistemas e aplicações para a web e dispositivos móveis, e o curso de Técnico em Informática para Internet no IFCE, com foco desenvolvimento e manutenção de sistemas e aplicações web, incluindo criação de interfaces, design de sites, desenvolvimento de aplicações e gestão de bancos de dados.
+
+Possuo certificado AWS Academy Graduate - AWS Academy Cloud Foundations pela Amazon Web Services (AWS).
+
+Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA e ser um educador na área de tecnologia da informação, com foco em desenvolvimento de software.
+    </p>
+  </section>
+  
   <section id="secao-de-experiencia">
     <h2>🚀 Experiência</h2>
     <div id="experiencias">
