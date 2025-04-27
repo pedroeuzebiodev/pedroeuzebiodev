@@ -109,33 +109,31 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     <h2>⚒️ Habilidades Técnicas</h2>
     <h3>💻 Desenvolvimento Front-end</h3>
     <div id="front-end-tecnologias">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=platic&logo=html5&logoColor=white" alt="HTML" class="tecnologia" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS" class="tecnologia" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" class="tecnologia" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" class="tecnologia" /> <br>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" class="tecnologia" />
-      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" alt="Vite" class="tecnologia" />
-      <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white" alt="React Query" class="tecnologia" />
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" alt="React Router" class="tecnologia" /> <br>
-      <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white" alt="React Hook Form" alt="tecnologia" />
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" alt="Redux" class="Redux" class="tecnologia" />
-      <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next.js" class="Next.js" class="tecnologia" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" class="tecnologia" />
-      <img src="https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B" alt="Vitest" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="32" alt="React Router" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="32" class="Redux" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" class="Next.js" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" alt="Tailwind CSS" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="Vitest" width="32" class="tecnologia" />
     </div>
     <h3>⚙️ Desenvolvimento Back-end e Banco de Dados</h3>
     <div id="back-end-e-banco-de-dados-tecnologias">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node.js" class="tecnologia" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js" class="tecnologia" />
-      <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white" alt="Fastify" class="tecnologia" />
-      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white" alt="NestJS" class="tecnologia" /> <br>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" class="tecnologia" />
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" class="tecnologia" />
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" class="tecnologia" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" class="tecnologia" /> <br>
-      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" alt="GrahQL" class="tecnologia" />
-      <img src="https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white" alt="Prisma" class="tecnologia" />
-      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white" alt="Sequelize" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GrahQL" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="32" class="tecnologia" />
     </div>
   </section>
 
