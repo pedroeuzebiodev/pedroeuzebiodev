@@ -41,6 +41,9 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           jan de 2025 - o momento · 4 meses <br />
           Brasília, Distrito Federal, Brasil · Remota
         </p>
+        <ul style="list-style: inside">
+          <li>Planejamento, construção, testes e manutenção dos sites e aplicações web da agência, garantindo que funcionem corretamente, sejam seguros e adaptados a diferentes dispositivos</li>
+        </ul>
       </div>
       <div class="experiencia">
         <a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6">
@@ -52,6 +55,9 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           nov de 2023 - dez de 2023 · 2 meses <br />
           Baturité, Ceará, Brasil · Presencial
         </p>
+        <ul style="list-style: inside">
+          <li>Garantia do bom funcionamento dos sistemas de hardware e software da secretaria</li>
+        </ul>
       </div>
       <div class="experiencia">
         <a href="https://ifce.edu.br">
@@ -63,6 +69,9 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           ago de 2023 - nov de 2023 · 4 meses <br />
           Baturité, Ceará, Brasil · Presencial
         </p>
+        <ul style="list-style: inside">
+          <li>Desenvolvimento das aplicações da instituição, desde a interface do usuário até o servidor e banco de dados</li>
+        </ul>
       </div>
     </div>
   </section>
@@ -79,6 +88,9 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Tecnólogo em Sistemas para Internet <br />
           jan de 2024 - jun de 2026
         </p>
+        <ul style="list-style: inside">
+          <li>Graduação de nível superior que forma profissionais para atuar em desenvolvimento, implementação e gestão de sistemas e aplicações para a web e dispositivos móveis</li>
+        </ul>
       </div>
       <br />
       <div class="formacao-academica">
@@ -90,6 +102,9 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Técnico em Informática para Internet <br />
           jan de 2024 - jun de 2025
         </p>
+        <ul style="list-style: inside">
+          <li>Preparação profissional para o desenvolvimento e manutenção de sistemas e aplicações web, incluindo criação de interfaces, design de sites, desenvolvimento de aplicações e gestão de bancos de dados</li>
+        </ul>
       </div>
       <br />
       <div class="formacao-academica">
@@ -101,6 +116,9 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Técnico em Informática <br />
           jan de 2021 - dez de 2023
         </p>
+        <ul style="list-style: inside">
+          <li>Formação profissional de nível médio para atuação em diversas áreas da TI, desde a montagem e manutenção de computadores até o desenvolvimento de software e websites</li>
+        </ul>
       </div>
     </div>
   </section>
@@ -161,6 +179,40 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Verificação emitida em jun de 2023 <br />
           <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">Exibir credencial</a>
         </p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>♻️ Trabalho Voluntário</h2>
+    <div id="trabalhos-voluntario">
+      <div class="trabalho-experiencia">
+        <a href="https://ifce.edu.br">
+          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
+          </a>
+        <p>
+          <strong>Monitor da Disciplina de Desenvolvimento Web I</strong> <br />
+          Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br />
+          mar de 2025 - até o momento · 2 m <br />
+          Educação
+        </p>
+        <ul style="list-style: inside">
+          <li>Auxiliando os alunos na compreensão e aplicação dos conceitos de desenvolvimento web</li>
+        </ul>
+      </div>
+      <div class="trabalho-experiencia">
+        <a href="https://ifce.edu.br">
+          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
+          </a>
+        <p>
+          <strong>Membro do Projeto de Extensão ExploraTech</strong> <br />
+          Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br />
+          mar de 2025 - até o momento · 2 m <br />
+          Ciência e tecnologia
+        </p>
+        <ul style="list-style: inside">
+          <li>Participação ativa nas atividades do projeto, a colaboração com outros membros da equipe, a contribuição com as minhas habilidades e conhecimentos, e a busca por alcançar os objetivos do projeto</li>
+        </ul>
       </div>
     </div>
   </section>
