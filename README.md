@@ -88,6 +88,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Tecnólogo em Sistemas para Internet <br />
           jan de 2024 - jun de 2026
         </p>
+        <br>
         <ul style="list-style: inside">
           <li>Graduação de nível superior que forma profissionais para atuar em desenvolvimento, implementação e gestão de sistemas e aplicações para a web e dispositivos móveis</li>
         </ul>
@@ -102,6 +103,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Técnico em Informática para Internet <br />
           jan de 2024 - jun de 2025
         </p>
+        <br>
         <ul style="list-style: inside">
           <li>Preparação profissional para o desenvolvimento e manutenção de sistemas e aplicações web, incluindo criação de interfaces, design de sites, desenvolvimento de aplicações e gestão de bancos de dados</li>
         </ul>
@@ -116,6 +118,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Técnico em Informática <br />
           jan de 2021 - dez de 2023
         </p>
+        <br>
         <ul style="list-style: inside">
           <li>Formação profissional de nível médio para atuação em diversas áreas da TI, desde a montagem e manutenção de computadores até o desenvolvimento de software e websites</li>
         </ul>
