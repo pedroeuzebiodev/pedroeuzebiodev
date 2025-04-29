@@ -16,7 +16,7 @@
 
 Atualmente atuo como Desenvolvedor Web na Magnix, planejando, construindo, testando e mantendo os sites e aplicações web da agência, garantindo que funcionem corretamente, sejam seguros e adaptados a diferentes dispositivos.
 
-Possuo experiência como Técnico de Tecnologia da Informação na Secretaria de Desenvolvimento Econômico e Social, garantindo o bom funcionamento dos sistemas de hardware e software, e atuei como Desenvolvedor Full Stack no IFCE, desenvolvendo as aplicações da instituição, desde a interface do usuário até o servidor e banco de dados.
+Possuo experiência como Técnico de Tecnologia da Informação na Secretaria de Desenvolvimento Econômico e Social, garantia o bom funcionamento dos sistemas de hardware e software, e atuei como Desenvolvedor Full Stack no IFCE, desenvolvendo as aplicações da instituição, desde a interface do usuário até o servidor e banco de dados.
 
 Tenho formação profissional de nível médio no curso de Técnico em Informática pela EEEP, na qual adquiri conhecimentos desde a montagem e manutenção de computadores até o desenvolvimento de softwares e websites.
 
