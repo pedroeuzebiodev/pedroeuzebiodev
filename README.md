@@ -19,7 +19,7 @@ No momento estou cursando o curso de Tecnólogo em Sistemas para Internet na Est
 
 Possuo certificado AWS Academy Graduate - AWS Academy Cloud Foundations pela Amazon Web Services (AWS).
 
-Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA e ser um Educador na área de Tecnologia da Informação, com foco em Desenvolvimento de Software.
+Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA, conseguir uma vaga como Desenvolvedor Full Stack para mostrar meu valor e agregar com as minhas habilidades em desenvolvimento full stack, com foco em React e Node.js, e ser um Educador na área de Tecnologia da Informação.
     </p>
   </section>
   
