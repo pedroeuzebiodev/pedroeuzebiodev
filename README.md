@@ -35,7 +35,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Brasília, Distrito Federal, Brasil · Remota
         </p>
         <ul style="list-style: inside">
-          <li>Planejamento, construção, testes e manutenção dos sites e aplicações web da agência, garantindo que funcionem corretamente, sejam seguros e adaptados a diferentes dispositivos</li>
+          <li>Responsável por projetar, criar e manter sites e aplicativos web. Isso inclui escrever código, integrar elementos visuais e garantir a funcionalidade e segurança da aplicação.</li>
         </ul>
       </div>
       <div class="experiencia">
@@ -49,7 +49,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Baturité, Ceará, Brasil · Presencial
         </p>
         <ul style="list-style: inside">
-          <li>Garantia do bom funcionamento dos sistemas de hardware e software da secretaria</li>
+          <li>Responsável pela instalação e manutenção de hardware e software até o suporte técnico aos usuários e o gerenciamento de redes. Isso inclui diagnosticar e resolver problemas técnicos, configurar e manter equipamentos e softwares, e garantir a segurança das informações.</li>
         </ul>
       </div>
       <div class="experiencia">
@@ -63,7 +63,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Baturité, Ceará, Brasil · Presencial
         </p>
         <ul style="list-style: inside">
-          <li>Desenvolvimento das aplicações da instituição, desde a interface do usuário até o servidor e banco de dados</li>
+          <li>Responsável por todo o ciclo de vida de desenvolvimento das aplicações web, desde o front-end até o back-end. Também responsável pela gestão de banco de dados e servidores.</li>
         </ul>
       </div>
     </div>
@@ -181,21 +181,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           Educação
         </p>
         <ul style="list-style: inside">
-          <li>Auxiliando os alunos na compreensão e aplicação dos conceitos de desenvolvimento web</li>
-        </ul>
-      </div>
-      <div class="trabalho-experiencia">
-        <a href="https://ifce.edu.br">
-          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
-          </a>
-        <p>
-          <strong>Membro do Projeto de Extensão ExploraTech</strong> <br />
-          Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br />
-          mar de 2025 - até o momento · 2 m <br />
-          Ciência e tecnologia
-        </p>
-        <ul style="list-style: inside">
-          <li>Participação ativa nas atividades do projeto, a colaboração com outros membros da equipe, a contribuição com as minhas habilidades e conhecimentos, e a busca por alcançar os objetivos do projeto</li>
+          <li>Responsável por auxiliar a professora Cintia Reis nas aulas teóricas e práticas, tirar dúvidas dos alunos sobre o conteúdo da disciplina, ajudar na realização de exercícios e projetos, e orientar os alunos na resolução de problemas técnicos. Também contribuo com a criação de materiais didáticos, a organização de atividades complementares e a avaliação do desempenho dos alunos, sempre em conjunto com a professora.</li>
         </ul>
       </div>
     </div>
