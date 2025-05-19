@@ -173,7 +173,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
       <div class="trabalho-experiencia">
         <a href="https://ifce.edu.br">
           <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
-          </a>
+        </a>
         <p>
           <strong>Monitor da Disciplina de Desenvolvimento Web I</strong> <br />
           Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br />
@@ -204,6 +204,23 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     </div>
   </section>
 
+  <section id="secao-de-reconhecimentos-e-premios">
+    <h2>🏆 Reconhecimentos e Prêmios</h2>
+    <div id="reconhecimentos-e-premios">
+      <div class="reconhecimento-e-premio">
+        <strong>Integrante</strong>
+        <p>Concedido(s) por Instituto Federal de Educação, Ciência e Tecnologia do Ceará · mai de 2025</p>
+        <a href="https://ifce.edu.br">
+          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="32" align="left" />
+        </a>
+        <p>Associado(s) a Instituto Federal de Educação, Ciência e Tecnologia do Ceará</p>
+        <ul style="list-style: inside">
+          <li>Participei como um dos integrantes da equipe de execução do Evento de Extensão Ciclo de Oficinas Primeiros Passos na Informática no IFCE Campus Baturité. Fui um dos monitores auxiliando no decorrer das oficinas, respondendo dúvidas, orientando nas atividades práticas, e acompanhando o progresso nas oficinas.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
   <section id="secao-de-idiomas">
     <h2>👅 Idiomas</h2>
     <div id="idiomas">
@@ -211,6 +228,23 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
         <li class="idioma">Inglês - Nível Básico a Intermediário (B1)</li>
         <li class="idioma">Português - Fluente ou Nativo (C2)</li>
       </ul>
+    </div>
+  </section>
+
+  <section id="secao-de-organizacoes">
+    <h2>🏬 Organizações</h2>
+    <div id="organizacoes">
+      <div class="reconhecimento-e-premio">
+        <strong>Projeto de Extensão ExploraTech</strong>
+        <p>Integrante · mar de 2025 - até o momento</p>
+        <a href="https://ifce.edu.br">
+          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="32" align="left" />
+        </a>
+        <p>Associado(s) a Instituto Federal de Educação, Ciência e Tecnologia do Ceará</p>
+        <ul style="list-style: inside">
+          <li>O Projeto de Extensão ExploraTech tem como objetivo transparecer a área de Tecnologia da Informação na comunidade externa e interna do IFCE Campus Baturité com o intuito de realizar oficinas, palestras e eventos.</li>
+        </ul>
+      </div>
     </div>
   </section>
 
