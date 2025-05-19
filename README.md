@@ -7,19 +7,17 @@
     <h2>❓ Sobre</h2>
     <img src="https://i.imgur.com/dJmzEPE.png" alt="Foto do Pedro Euzebio" align="right" />
     <p>
-      Sou um Desenvolvedor, com foco em React e Node.js para desenvolvimento full stack. Minhas habilidades técnicas em desenvolvimento front-end são com as tecnologias HTML, CSS, JavaScript, React e Tailwind CSS, e em desenvolvimento back-end são com Node.js, Express.js, Fastify, NestJS e Docker.
+      Sou um Desenvolvedor Full Stack, com foco em React e Node.js para desenvolvimento full stack.
 
-Atualmente atuo como Desenvolvedor Web na Magnix, planejando, construindo, testando e mantendo os sites e aplicações web da agência, garantindo que funcionem corretamente, sejam seguros e adaptados a diferentes dispositivos.
+Tenho domínio no front-end com as linguagens HTML, CSS, JavaScript e TypeScript, bibliotecas como React, frameworks como Tailwind CSS, Design de interfaces e UX. Enquanto no back-end possuo domínio com as linguagens Node.js e Java, frameworks como Express.js e Spring, banco de dados MySQL e MongoDB, criação e consumo de APIs, autenticação, autorização e criptografia.
 
-Possuo experiência como Técnico de Tecnologia da Informação na Secretaria de Desenvolvimento Econômico e Social, garantia o bom funcionamento dos sistemas de hardware e software, e atuei como Desenvolvedor Full Stack no IFCE, desenvolvendo as aplicações da instituição, desde a interface do usuário até o servidor e banco de dados.
+Atualmente sou Desenvolvedor Web na Magnix sendo responsável por projetar, criar e manter sites e aplicativos web. Possuo experiência como Desenvolvedor Full stack no IFCE na qual era responsável por todo o ciclo de vida de desenvolvimento das aplicações web, desde o front-end até o back-end.
 
-Tenho formação profissional de nível médio no curso de Técnico em Informática pela EEEP, na qual adquiri conhecimentos desde a montagem e manutenção de computadores até o desenvolvimento de softwares e websites.
+Sou formado no curso de Técnico em Informática pela EEEP de Baturité. No momento estou cursando o curso de Tecnólogo em Sistemas para Internet na Estácio e o curso de Técnico em Informática para Internet no IFCE. Possuo certificação em fundamentos da nuvem pela Amazon Web Services (AWS).
 
-No momento estou cursando o curso de Tecnólogo em Sistemas para Internet na Estácio com ênfase em desenvolvimento, implementação e gestão de sistemas e aplicações para a web e dispositivos móveis, e o curso de Técnico em Informática para Internet no IFCE, com foco desenvolvimento e manutenção de sistemas e aplicações web, incluindo criação de interfaces, design de sites, desenvolvimento de aplicações e gestão de bancos de dados.
+Participei como um dos integrantes da equipe de execução do Evento de Extensão Ciclo de Oficinas Primeiros Passos na Informática no IFCE Campus Baturité.
 
-Possuo certificado AWS Academy Graduate - AWS Academy Cloud Foundations pela Amazon Web Services (AWS).
-
-Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA, conseguir uma vaga como Desenvolvedor Full Stack para mostrar meu valor e agregar com as minhas habilidades em desenvolvimento full stack, com foco em React e Node.js, e ser um Educador na área de Tecnologia da Informação.
+Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA, conseguir uma vaga como Desenvolvedor Full Stack para mostrar meu valor e agregar com as minhas habilidades, com foco em React e Node.js para desenvolvimento full stack, e ser um Educador na área de Tecnologia da Informação.
     </p>
   </section>
   
