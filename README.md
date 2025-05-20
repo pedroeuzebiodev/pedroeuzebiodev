@@ -17,7 +17,7 @@ Sou formado no curso de Técnico em Informática pela EEEP de Baturité. No mome
 
 Participei como um dos integrantes da equipe de execução do Evento de Extensão Ciclo de Oficinas Primeiros Passos na Informática no IFCE Campus Baturité.
 
-Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA, conseguir uma vaga como Desenvolvedor Full Stack para mostrar meu valor e agregar com as minhas habilidades, com foco em React e Node.js para desenvolvimento full stack, e ser um Educador na área de Tecnologia da Informação.
+Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA, mostrar meu valor e agregar com as minhas habilidades em desenvolvimento full stack e ser um Educador na área de Tecnologia da Informação.
     </p>
   </section>
   
