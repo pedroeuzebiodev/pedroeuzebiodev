@@ -1,5 +1,5 @@
 <header>
-  <img src="https://i.imgur.com/gFIozd6.png" alt="Banner Pedro Euzebio" />
+  <img src="https://i.imgur.com/daOHGDW.png" alt="Banner do Pedro Euzebio" />
 </header>
 
 <main>
@@ -26,21 +26,18 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     <div id="experiencias">
       <div class="experiencia">
         <a href="https://agenciamagnix.com">
-          <img src="https://i.imgur.com/5sQlBoV.jpg" alt="Logo Magnix" width="80" align="left" />
+          <img src="https://i.imgur.com/5sQlBoV.jpg" alt="Logo da Magnix" width="80" align="left" />
         </a>
         <p>
           <strong>Desenvolvedor Web</strong> <br />
           Magnix · Freelance <br />
-          jan de 2025 - o momento · 4 meses <br />
+          jan de 2025 - jun de 2025 · 6 meses <br />
           Brasília, Distrito Federal, Brasil · Remota
         </p>
-        <ul style="list-style: inside">
-          <li>Responsável por projetar, criar e manter sites e aplicativos web. Isso inclui escrever código, integrar elementos visuais e garantir a funcionalidade e segurança da aplicação.</li>
-        </ul>
       </div>
       <div class="experiencia">
         <a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6">
-          <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo Secretaria de Desenvolvimento Econômico e Social" width="80" align="left" />
+          <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretaria de Desenvolvimento Econômico e Social" width="80" align="left" />
         </a>
         <p>
           <strong>Técnico de Tecnologia da Informação</strong> <br />
@@ -48,13 +45,10 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           nov de 2023 - dez de 2023 · 2 meses <br />
           Baturité, Ceará, Brasil · Presencial
         </p>
-        <ul style="list-style: inside">
-          <li>Responsável pela instalação e manutenção de hardware e software até o suporte técnico aos usuários e o gerenciamento de redes. Isso inclui diagnosticar e resolver problemas técnicos, configurar e manter equipamentos e softwares, e garantir a segurança das informações.</li>
-        </ul>
       </div>
       <div class="experiencia">
         <a href="https://ifce.edu.br">
-          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
+          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
           </a>
         <p>
           <strong>Desenvolvedor Full Stack</strong> <br />
@@ -62,9 +56,6 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           ago de 2023 - nov de 2023 · 4 meses <br />
           Baturité, Ceará, Brasil · Presencial
         </p>
-        <ul style="list-style: inside">
-          <li>Responsável por todo o ciclo de vida de desenvolvimento das aplicações web, desde o front-end até o back-end. Também responsável pela gestão de banco de dados e servidores.</li>
-        </ul>
       </div>
     </div>
   </section>
@@ -74,7 +65,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     <div id="formacoes-academica">
       <div class="formacao-academica">
         <a href="https://estacio.br">
-          <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo Universidade Estácio de Sá (UNESA)" width="80" align="left" />
+          <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="80" align="left" />
         </a>
         <p>
           <strong>Universidade Estácio de Sá (UNESA)</strong> <br />
@@ -85,7 +76,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
       <br />
       <div class="formacao-academica">
         <a href="https://ifce.edu.br">
-          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
+          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
         </a>
         <p>
           <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong> <br />
@@ -96,7 +87,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
       <br />
       <div class="formacao-academica">
         <a href="https://www.eeepdebaturite.com">
-          <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="80" align="left" />
+          <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="80" align="left" />
         </a>
         <p>
           <strong>Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda</strong> <br />
@@ -117,10 +108,10 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" class="tecnologia" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="32" class="tecnologia" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="32" class="tecnologia" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="32" alt="React Router" class="tecnologia" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="32" class="Redux" class="tecnologia" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" class="Next.js" class="tecnologia" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" alt="Tailwind CSS" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" class="tecnologia" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="32" class="tecnologia" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="Vitest" width="32" class="tecnologia" />
     </div>
     <h3>⚙️ Desenvolvimento Back-end e Banco de Dados</h3>
@@ -144,7 +135,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     <div id="certificados">
       <div class="certificado">
         <a href="https://www.rocketseat.com.br">
-          <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo Rocketseat" width="80" align="left" />
+          <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="80" align="left" />
         </a>
         <p>
           <strong>Discover</strong> <br />
@@ -155,7 +146,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
       </div>
       <div class="certificado">
         <a href="https://aws.amazon.com/pt/">
-          <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo Amazon Web Services (AWS)" width="80" align="left" />
+          <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="80" align="left" />
         </a>
         <p>
           <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br />
@@ -167,22 +158,30 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     </div>
   </section>
 
-  <section>
+  <section id="secao-de-trabalho-voluntario">
     <h2>♻️ Trabalho Voluntário</h2>
-    <div id="trabalhos-voluntario">
-      <div class="trabalho-experiencia">
+    <div id="trabalhos-voluntarios">
+      <div class="trabalho-voluntario">
         <a href="https://ifce.edu.br">
           <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
         </a>
         <p>
           <strong>Monitor da Disciplina de Desenvolvimento Web I</strong> <br />
           Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br />
-          mar de 2025 - até o momento · 2 m <br />
+          mar de 2025 - até o momento · 4 m <br />
           Educação
         </p>
-        <ul style="list-style: inside">
-          <li>Responsável por auxiliar a professora Cintia Reis nas aulas teóricas e práticas, tirar dúvidas dos alunos sobre o conteúdo da disciplina, ajudar na realização de exercícios e projetos, e orientar os alunos na resolução de problemas técnicos. Também contribuo com a criação de materiais didáticos, a organização de atividades complementares e a avaliação do desempenho dos alunos, sempre em conjunto com a professora.</li>
-        </ul>
+      </div>
+      <div class="trabalho-voluntario">
+        <a href="https://ifce.edu.br">
+          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
+        </a>
+        <p>
+          <strong>Monitor da Disciplina de Lógica de Programação</strong> <br />
+          Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br />
+          mai de 2025 - até o momento · 2 m <br />
+          Educação
+        </p>
       </div>
     </div>
   </section>
@@ -192,7 +191,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     <div id="cursos">
       <div class="curso">
         <a href="https://www.dell.com/pt-br">
-          <img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo Dell Technologies" width="80" align="left" />
+          <img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo da Dell Technologies" width="80" align="left" />
         </a>
         <p>
           <strong>Suporte Técnico em Tecnologia da Informação</strong> <br />
@@ -208,15 +207,14 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     <h2>🏆 Reconhecimentos e Prêmios</h2>
     <div id="reconhecimentos-e-premios">
       <div class="reconhecimento-e-premio">
-        <strong>Integrante</strong>
-        <p>Concedido(s) por Instituto Federal de Educação, Ciência e Tecnologia do Ceará · mai de 2025</p>
         <a href="https://ifce.edu.br">
-          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="32" align="left" />
+          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
         </a>
-        <p>Associado(s) a Instituto Federal de Educação, Ciência e Tecnologia do Ceará</p>
-        <ul style="list-style: inside">
-          <li>Participei como um dos integrantes da equipe de execução do Evento de Extensão Ciclo de Oficinas Primeiros Passos na Informática no IFCE Campus Baturité. Fui um dos monitores auxiliando no decorrer das oficinas, respondendo dúvidas, orientando nas atividades práticas, e acompanhando o progresso nas oficinas.</li>
-        </ul>
+        <p>
+          <strong>Integrante</strong> <br />
+          Concedido(s) por Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · mai de 2025 <br />
+          Associado(s) a Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+        </p>
       </div>
     </div>
   </section>
@@ -235,15 +233,14 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     <h2>🏬 Organizações</h2>
     <div id="organizacoes">
       <div class="reconhecimento-e-premio">
-        <strong>Projeto de Extensão ExploraTech</strong>
-        <p>Integrante · mar de 2025 - até o momento</p>
         <a href="https://ifce.edu.br">
-          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="32" align="left" />
+          <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
         </a>
-        <p>Associado(s) a Instituto Federal de Educação, Ciência e Tecnologia do Ceará</p>
-        <ul style="list-style: inside">
-          <li>O Projeto de Extensão ExploraTech tem como objetivo transparecer a área de Tecnologia da Informação na comunidade externa e interna do IFCE Campus Baturité com o intuito de realizar oficinas, palestras e eventos.</li>
-        </ul>
+        <p>
+          <strong>Projeto de Extensão ExploraTech</strong> <br />
+          Integrante · mar de 2025 - até o momento <br />
+          Associado(s) a Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
+        </p>
       </div>
     </div>
   </section>
@@ -252,13 +249,13 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     <h2>📫 Contato</h2>
     <div id="contatos">
       <a href="mailto:pedroeuzebio.contato@gmail.com" class="contato">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Badge Gmail" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Badge do Gmail" />
       </a>
       <a href="https://www.linkedin.com/in/pedroeuzebio" class="contato">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="Badge LinkedIn" />
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="Badge do LinkedIn" />
       </a>
       <a href="https://www.youtube.com/@pedroeuzebiodev" class="contato">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white" alt="Badge YouTube" />
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white" alt="Badge do YouTube" />
       </a>
     </div>
   </section>
