@@ -20,6 +20,8 @@ Participei como um dos integrantes da equipe de execução do Evento de Extensã
 Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA, mostrar meu valor e agregar com as minhas habilidades em desenvolvimento full stack e ser um Educador na área de Tecnologia da Informação.
     </p>
   </section>
+
+  <hr />
   
   <section id="secao-de-experiencia">
     <h2>🚀 Experiência</h2>
@@ -60,6 +62,8 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     </div>
   </section>
 
+  <hr />
+
   <section id="secao-de-formacao-academica">
     <h2>🎓 Formação Acadêmica</h2>
     <div id="formacoes-academica">
@@ -98,6 +102,8 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     </div>
   </section>
 
+  <hr />
+
   <section id="secao-de-tecnologias">
     <h2>⚒️ Habilidades Técnicas</h2>
     <h3>💻 Desenvolvimento Front-end</h3>
@@ -130,6 +136,8 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     </div>
   </section>
 
+  <hr />
+
   <section id="secao-de-certificados">
     <h2>📄 Certificados</h2>
     <div id="certificados">
@@ -157,6 +165,8 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
       </div>
     </div>
   </section>
+
+  <hr />
 
   <section id="secao-de-trabalho-voluntario">
     <h2>♻️ Trabalho Voluntário</h2>
@@ -186,6 +196,8 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     </div>
   </section>
 
+  <hr />
+
   <section id="secao-de-cursos">
     <h2>✅ Cursos</h2>
     <div id="cursos">
@@ -202,6 +214,8 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
       </div>
     </div>
   </section>
+
+  <hr />
 
   <section id="secao-de-reconhecimentos-e-premios">
     <h2>🏆 Reconhecimentos e Prêmios</h2>
@@ -229,6 +243,8 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
     </div>
   </section>
 
+  <hr />
+
   <section id="secao-de-organizacoes">
     <h2>🏬 Organizações</h2>
     <div id="organizacoes">
@@ -244,6 +260,8 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
       </div>
     </div>
   </section>
+
+  <hr />
 
   <section id="secao-de-contato">
     <h2>📫 Contato</h2>
