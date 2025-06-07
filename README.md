@@ -225,7 +225,7 @@ Meus objetivos são desenvolver mais a minha inteligência, está a frente da IA
           <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
         </a>
         <p>
-          <strong>Integrante</strong> <br />
+          <strong>Integrante da Equipe de Execução do Evento de Extensão Ciclo de Oficinas Primeiros Passos na Informática</strong> <br />
           Concedido(s) por Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · mai de 2025 <br />
           Associado(s) a Instituto Federal de Educação, Ciência e Tecnologia do Ceará
         </p>
